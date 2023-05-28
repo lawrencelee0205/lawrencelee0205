@@ -24,3 +24,24 @@ header, section, footer {
         padding: 10px;
     }
 }
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.project {
+    flex: 1 1 30%;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .project {
+        flex: 1 1 100%;
+    }
+}
