@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Django
 - 📫 Reach me at lawrencelee0205@gmail.com
 - :briefcase: Reach me at LinkedIn https://www.linkedin.com/in/lawrencelee0205/
+- 🌐 Personal website: https://lawrencelee0205.vercel.app/
 <!---
 lawrencelee0205/lawrencelee0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
